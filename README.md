@@ -2,7 +2,7 @@
 ## Introduction
 **forefoot-force-calculator** is a MATLAB application to calculate forces acting in the forefoot during push-off phase, or the second force peak during stance, of normal gait.
 
-Input gound reaction force acting on the first and the second toe and you will get all forces acting in the forefoot.
+Input gound reaction force acting on the first and the second toe and you will get main forces acting in the forefoot.
 
 You can also change the geometrical data of the foot and see how the forces vary on different types of feet.
 
